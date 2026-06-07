@@ -7,4 +7,4 @@ edition = "2021"
 crate-type = ["cdylib"]
 
 [dependencies]
-miracle-plugin = "0.0"
+miracle-plugin = "0.0.13"
