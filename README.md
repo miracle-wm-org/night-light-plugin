@@ -6,10 +6,16 @@ A [miracle-wm](https://github.com/mattkae/miracle-wm) plugin that gradually shad
 
 ## Installation
 
-Download and install the latest nightly build:
+Download and install the latest stable build:
 
 ```sh
 curl -fsSL https://raw.githubusercontent.com/miracle-wm-org/night-light-plugin/main/install.sh | bash
+```
+
+Or install the latest nightly build:
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/miracle-wm-org/night-light-plugin/main/install.sh | bash -s -- --nightly
 ```
 
 Alternatively, manually add the plugin to your miracle-wm configuration file (`~/.config/miracle-wm/config.yaml`):
